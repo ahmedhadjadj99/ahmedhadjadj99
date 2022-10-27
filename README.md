@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ahmed HADJADJ
+- 👀 I’m a junior Data Analyst with Decathlon El Djazair
+- 🌱 A kaggle begginer
+- 📫 Here's my email: ah99medhadj@gmail.com
